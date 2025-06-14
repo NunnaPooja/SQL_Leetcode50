@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
@@ -65,9 +66,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
