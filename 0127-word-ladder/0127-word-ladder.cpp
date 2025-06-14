@@ -15,6 +15,10 @@ public:
     unordered_set<string>st(wordList.begin(),wordList.end());
         queue<pair<string,int>>q;
         q.push({beginWord,1});
+        st.erase(beginWord); //erase from set as well.
+        //example startword='a' endword='c',wordlist=['a' ,'b' ,'c'] 
+        //if u dont remove 'a' initally then while checking for char loop it will again store 'a' steps as steps+1 
+        //even if u dont remove intial check it gives answer. due to check=> if(word==endWord) return level.
         while(!q.empty()){
             string word=q.front().first;
             int level=q.front().second;
@@ -30,7 +34,7 @@ public:
                 //   }
                 // }
                 // it=original;
-                /*Your implementation has a logical issue: it is a copy of the character in word and not a reference.
+                /*Your implementation has a logical issue: 'it' is a copy of the character in word and not a reference.
                  This means modifying it will not update the original word. To fix this, you need to iterate over word
                   by reference or directly access its characters using an index.*/
                   for(int i=0;i<word.size();i++){
