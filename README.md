@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0210-course-schedule-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
