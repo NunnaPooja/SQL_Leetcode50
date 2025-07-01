@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 ## Depth-First Search
 |  |
