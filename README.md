@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
+| [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 ## Topological Sort
 |  |
 | ------- |
