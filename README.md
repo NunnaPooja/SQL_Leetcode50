@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
+| [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
