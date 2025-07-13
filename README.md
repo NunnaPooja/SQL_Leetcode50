@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0045-jump-game-ii) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0416-partition-equal-subset-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0045-jump-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
