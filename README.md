@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
+| [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -101,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
