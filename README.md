@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0135-candy) |
 | [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
