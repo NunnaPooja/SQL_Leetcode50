@@ -23,6 +23,10 @@ public:
         //         cnt++;
         // }
         // }
+        /*This code checks whether both width and height 
+        are strictly increasing compared to the current maxw and maxh.
+         That means it's trying to greedily find a strictly increasing sequence — but not necessarily the longest one.*/
+        // return cnt;
         // LIS on heights
         // vector<int>temp;
         // for(auto it:envelopes){
