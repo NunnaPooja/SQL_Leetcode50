@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
+| [0907-koko-eating-bananas](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0354-russian-doll-envelopes) |
+| [0907-koko-eating-bananas](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0907-koko-eating-bananas) |
 | [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
