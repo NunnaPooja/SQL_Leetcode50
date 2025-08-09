@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0416-partition-equal-subset-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
