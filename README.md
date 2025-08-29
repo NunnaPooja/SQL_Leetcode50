@@ -156,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
