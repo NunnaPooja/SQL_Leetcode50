@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0826-soup-servings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 | [2348-count-number-of-texts](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2348-count-number-of-texts) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0826-soup-servings](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 | [2348-count-number-of-texts](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2348-count-number-of-texts) |
 ## Recursion
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
