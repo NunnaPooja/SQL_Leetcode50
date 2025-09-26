@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
+| [1418-fair-distribution-of-cookies](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1418-fair-distribution-of-cookies) |
 | [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
 | [1906-maximize-score-after-n-operations](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1906-maximize-score-after-n-operations) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0826-soup-servings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
+| [1418-fair-distribution-of-cookies](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1906-maximize-score-after-n-operations) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2348-count-number-of-texts](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2348-count-number-of-texts) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
+| [1418-fair-distribution-of-cookies](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1906-maximize-score-after-n-operations) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Topological Sort
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1906-maximize-score-after-n-operations) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Number Theory
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1906-maximize-score-after-n-operations) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 <!---LeetCode Topics End-->
