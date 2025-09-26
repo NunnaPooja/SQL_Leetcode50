@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0045-jump-game-ii) |
+| [0233-number-of-digit-one](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0357-count-numbers-with-unique-digits) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0233-number-of-digit-one](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0357-count-numbers-with-unique-digits) |
 | [0826-soup-servings](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
