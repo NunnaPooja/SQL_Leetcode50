@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
+| [0546-remove-boxes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0546-remove-boxes) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
+| [0546-remove-boxes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0546-remove-boxes) |
 | [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0826-soup-servings) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0546-remove-boxes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
