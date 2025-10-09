@@ -17,9 +17,10 @@ public:
         if(root2==NULL) return root1;
         TreeNode* newy=new TreeNode();
         newy->left=mergeTrees(root1->left,root2->left);
+        newy->right=mergeTrees(root1->right,root2->right);
         newy->val=root1->val+ root2->val; //current node val
         // newy->left=mergeTrees(root1->left,root2->left); //compute left subtree by recursion on left
-        newy->right=mergeTrees(root1->right,root2->right); //compute right tree by recursion on right
+        // newy->right=mergeTrees(root1->right,root2->right); //compute right tree by recursion on right
         // mergeTrees(root1->right,root2->right);
         return newy;
     }
