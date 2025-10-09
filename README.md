@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0210-course-schedule-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
@@ -269,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0113-path-sum-ii) |
 | [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0113-path-sum-ii) |
 | [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
