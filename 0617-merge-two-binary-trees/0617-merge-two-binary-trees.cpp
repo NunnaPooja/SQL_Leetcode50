@@ -16,9 +16,9 @@ public:
         if(root1==NULL) return root2;
         if(root2==NULL) return root1;
         TreeNode* newy=new TreeNode();
-        // newy->left=mergeTrees(root1->Left,root2->left);
+        newy->left=mergeTrees(root1->left,root2->left);
         newy->val=root1->val+ root2->val; //current node val
-        newy->left=mergeTrees(root1->left,root2->left); //compute left subtree by recursion on left
+        // newy->left=mergeTrees(root1->left,root2->left); //compute left subtree by recursion on left
         newy->right=mergeTrees(root1->right,root2->right); //compute right tree by recursion on right
         // mergeTrees(root1->right,root2->right);
         return newy;
