@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0357-count-numbers-with-unique-digits) |
