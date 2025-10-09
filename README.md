@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
@@ -267,8 +269,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
