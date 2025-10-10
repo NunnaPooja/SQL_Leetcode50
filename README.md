@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
 | [1418-fair-distribution-of-cookies](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1906-maximize-score-after-n-operations) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
