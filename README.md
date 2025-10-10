@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0753-open-the-lock) |
 | [0907-koko-eating-bananas](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0133-clone-graph) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
+| [0753-open-the-lock](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0753-open-the-lock) |
 | [2348-count-number-of-texts](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2348-count-number-of-texts) |
 ## String
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
+| [0753-open-the-lock](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0753-open-the-lock) |
 | [2348-count-number-of-texts](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2348-count-number-of-texts) |
 ## Backtracking
 |  |
