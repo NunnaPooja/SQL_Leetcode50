@@ -26,8 +26,8 @@ public:
                 if(indegrees[it]==0) q.push(it);
             }
         }
-        if(cnt==0) return {};
-        sort(ans.begin(),ans.end());
+        // if(cnt==0) return {};
+        sort(ans.begin(),ans.end()); //u can apply sort onto empty vector as well
         return ans;
     }
 };
