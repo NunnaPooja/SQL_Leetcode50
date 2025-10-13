@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0233-number-of-digit-one](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0357-count-numbers-with-unique-digits) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0113-path-sum-ii) |
 | [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0113-path-sum-ii) |
 | [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-minimum-cost-to-merge-stones](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1042-minimum-cost-to-merge-stones) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
