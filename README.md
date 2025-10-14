@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0045-jump-game-ii) |
+| [0091-decode-ways](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0300-longest-increasing-subsequence) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
