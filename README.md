@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0826-soup-servings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0954-maximum-sum-circular-subarray) |
+| [1008-binary-tree-cameras](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1013-fibonacci-number) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1418-fair-distribution-of-cookies](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1418-fair-distribution-of-cookies) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0820-find-eventual-safe-states) |
+| [1008-binary-tree-cameras](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1008-binary-tree-cameras) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1008-binary-tree-cameras) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1008-binary-tree-cameras) |
 ## Prefix Sum
 |  |
 | ------- |
