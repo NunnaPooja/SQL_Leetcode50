@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0546-remove-boxes) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0546-remove-boxes) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0472-concatenated-words](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0127-word-ladder) |
+| [0472-concatenated-words](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0472-concatenated-words) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0753-open-the-lock) |
 | [2348-count-number-of-texts](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2348-count-number-of-texts) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0056-merge-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0472-concatenated-words) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 ## Greedy
 |  |
@@ -335,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0096-unique-binary-search-trees) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
