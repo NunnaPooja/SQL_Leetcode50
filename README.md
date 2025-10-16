@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0922-possible-bipartition) |
 | [1008-binary-tree-cameras](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1008-binary-tree-cameras) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1753-path-with-minimum-effort) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
