@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1418-fair-distribution-of-cookies](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/1906-maximize-score-after-n-operations) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2348-count-number-of-texts](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/2348-count-number-of-texts) |
 ## Depth-First Search
