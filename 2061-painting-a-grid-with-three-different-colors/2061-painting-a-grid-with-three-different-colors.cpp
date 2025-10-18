@@ -8,6 +8,7 @@ The only information needed to compute the number of valid fillings for future c
 row and curr are intermediate variables used only to build the pattern of the current column; they are not part of the global state once the column is done.
 So we memoize only at the point where an entire column is finished — i.e. when row == 0 (the start of the next column fill).*/
 int f(int col,int row,int curr,int prev,int m,int n){
+    //https://www.youtube.com/watch?v=6nbaWeTUf7Io
     if(col==n) return 1;
     // vector<int>newcurr(m,0);
     if(row==m) return f(col+1,0,0,curr,m,n); //before curr vector becomes prev for next row
