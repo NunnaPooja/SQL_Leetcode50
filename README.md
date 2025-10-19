@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -300,11 +301,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/NunnaPooja/SQL_Leetcode50/tree/master/0739-daily-temperatures) |
 ## Shortest Path
 |  |
